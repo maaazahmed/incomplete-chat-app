@@ -1,0 +1,15 @@
+
+h1{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.form-div{
+    border: solid 1px #a3a3a3;
+    margin: 0 auto;
+    margin-top: 10%;
+    background: #e6e6e6;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px #d8d8d8;; 
+
+}
