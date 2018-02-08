@@ -1,0 +1,69 @@
+.chat_Input_main{
+    background-color: #007bff;
+    padding: 5px;
+    border-radius:5px; 
+}
+
+.chat_Input{
+    margin-left: 0px; 
+    width: 400px;
+}
+
+.input{
+    margin-right: 4px; 
+    max-width: 400px;
+}
+
+.main_div{
+    width: 100%;
+    padding: 6px;
+}
+
+.chat_list , .Msges_list{
+   float: left  
+}
+
+.main_chat_div{
+    margin: 0 auto;
+}
+
+.chat_list{
+    width: 35%;
+    /* border: solid 1px black; */
+    border-right: none; 
+    padding: 5px;
+    min-height: 750px;
+    max-height: 750px;
+    overflow-y: scroll;
+}
+
+.Msges_list{
+    width: 65%;
+    /* border: solid 1px black; */
+    padding: 5px;
+    min-height: 750px;
+    max-height: 750px;
+    overflow-y: scroll; 
+}
+
+.receved_message{
+    padding: 10px;
+    margin: 5px;
+    min-width: 100px;
+    width: 300px;
+    margin-left: 240px;
+
+}
+
+.send_message{
+    padding: 10px;
+    margin: 5px;
+    min-width: 100px;
+    width: 300px;
+    margin-left: 50px;
+
+}
+
+.Edit_delete_style{
+   text-align: right;     
+}
